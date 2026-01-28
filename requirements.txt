@@ -1,0 +1,11 @@
+# Frontend-only requirements for Streamlit deployment
+# No ML/AI libraries needed - frontend only makes API calls to backend
+
+# Core Frontend Framework
+streamlit==1.28.2
+
+# API Communication
+requests==2.31.0
+
+# Configuration
+python-dotenv==1.0.0
